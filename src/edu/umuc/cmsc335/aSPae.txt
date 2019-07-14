@@ -1,5 +1,4 @@
 // File: aSPae.txt
-// Creator: Andrew Eissen
 // Notes: USS album titles are CargoShips, Muse album titles are PassengerShips
 //
 // Baltimore:
